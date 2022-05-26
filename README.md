@@ -20,3 +20,7 @@ Look into the concept of CSS-in-JS, which abstracts CSS to the component level.
 Try using a component library, such as Semantic UI, Chakra UI, or Ant Design.
 Create all the CSS for your application just using CSS.
 Regardless of which of these options you choose—it must look professional and be mobile-friendly
+
+
+
+we should agree on the things that go into user, message, converastion, how to lay out resolvers... anything else we need?
