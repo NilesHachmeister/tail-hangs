@@ -2,6 +2,8 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
+
+// did we want to have a service worker? Anyone feel strong in making one?
 import * as serviceWorker from './serviceWorker';
 
 ReactDOM.render(
